@@ -1,0 +1,10 @@
+insurance_env/
+
+# Python cache files
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code configurations
+.vscode/
