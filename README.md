@@ -40,7 +40,7 @@ APP_URL = "http://127.0.0.1:8000/predict"
 ## 🛠️ Local Setup Installation
 
 ### 1. Run via Local Virtual Environment
-To spin up both systems on your machine locally, change the `APP_URL` in `Frontend.py` to `http://127.0.0` and run:
+To spin up both systems on your machine locally, change the `APP_URL` in `Frontend.py` to `http://127.0.0.1:8000/predict` and run:
 
 ```bash
 # Clone the repository
